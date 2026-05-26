@@ -1,7 +1,4 @@
-"""
-Ejercicio 5: Diffie-Hellman en Python
-Objetivo: Implementar un intercambio seguro de claves usando Diffie-Hellman.
-"""
+
 
 from cryptography.hazmat.primitives.asymmetric import dh
 from cryptography.hazmat.backends import default_backend
